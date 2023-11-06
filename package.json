@@ -1,4 +1,6 @@
 {
+  "name": "shadcn-turborepo-npm-bug",
+  "version": "1.0.0",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -16,6 +18,5 @@
     "prettier": "^3.0.3",
     "tsconfig": "*",
     "turbo": "latest"
-  },
-  "name": "shadcn-turborepo-bug"
+  }
 }
